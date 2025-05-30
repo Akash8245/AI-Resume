@@ -12,7 +12,7 @@ A modern, AI-powered resume screening application that uses Google's Gemini 2.0 
 
 ## 🚀 Live Demo
 
-[Streamlit App Link] (Coming Soon)
+[[Streamlit App Link](https://ai-resume-tvamwuklzjhmfbqhf5mx7e.streamlit.app)] 
 
 ## 🛠️ Installation
 
